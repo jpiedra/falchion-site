@@ -1,0 +1,6 @@
+site_name: Falchion Unit
+theme:
+  name: bootstrap386
+extra_css:
+  - css/extra.css
+favicon: img/favicon.ico

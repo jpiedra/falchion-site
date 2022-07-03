@@ -1,0 +1,28 @@
+body {
+    color: white;
+    background-color: #565c45;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+center {
+    display: none;
+}
+
+div.col-md-9 a {
+    background-color: black;
+    color: #ddff00;
+}
+
+div.col-md-9 a:hover {
+    background-color: #ddff00;
+    color: black;
+}
+
+.well {
+    background-color: #253300;
+}
+
+.nav > li > a::first-letter {
+    color: #ddff00;
+}
