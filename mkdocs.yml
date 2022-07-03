@@ -1,4 +1,5 @@
 site_name: Falchion Unit
+site_url: falchion.club
 theme:
   name: bootstrap386
 extra_css:
